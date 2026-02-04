@@ -248,7 +248,7 @@ i:hover {
 }
 
 
-@media(width <=400px) {
+@media(width <=1000px) {
     #s1 {
         padding-top: 100px;
     }
