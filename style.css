@@ -217,7 +217,7 @@ i:hover {
     padding: 20px;
     justify-content: center;
     display: flex;
-    border-bottom: #000000;
+    border-bottom: #ffffff;
     flex-direction: column;
     gap: 20px;
     border: 2px solid black;
